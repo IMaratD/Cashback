@@ -1,2 +1,3 @@
 def cashback (amount):
-    return 0
+    percent = 0.05
+    return amount * percent
